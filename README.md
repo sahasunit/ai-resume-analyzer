@@ -1,5 +1,8 @@
 # 🚀 AI Resume Analyzer
 
+<img width="818" height="584" alt="Screenshot 2025-09-17 at 1 39 54 pm" src="https://github.com/user-attachments/assets/267916de-0b2a-4970-9fef-dfec8890a3a1" />
+
+
 <div align="center">
   <br />
 

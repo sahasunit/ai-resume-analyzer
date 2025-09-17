@@ -2,8 +2,6 @@
 
 <div align="center">
   <br />
-  <img src="public/readme/hero.webp" alt="AI Resume Analyzer Banner" width="600">
-  <br />
 
   <div>
     <img alt="React" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
